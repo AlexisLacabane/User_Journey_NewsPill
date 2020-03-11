@@ -29,6 +29,6 @@ In order to comply with NewsPill data privacy agreement:
 
 ## Credits
 
-Terence Mahier - CEO & Co-founder at NewsPill
-Anushka Trivedi - Data Science intern at NewsPill
-Eldiias Dzhamankulov - Data Analytics Teacher at IronHack Pa
+* Terence Mahier - CEO & Co-founder at NewsPill
+* Anushka Trivedi - Data Science intern at NewsPill
+* Eldiias Dzhamankulov - Data Analytics Teacher at IronHack Pa
