@@ -5,6 +5,13 @@ NewsPill(https://newspill.io/en/) is a Messenger chatbot connecting news event w
 
 Keep up with the latest business news in a fun & educative way, use Newspill !
 
+
+## Special Note
+
+In order to comply with NewsPill data privacy agreement:
+- For :file_folder: **Models.ipynb**, the input data will be shared
+- For :file_folder: **Viz_activity_per_user_type.ipynb**, the input data will **not** be shared 
+
 ## Tools
 
 ![](/Media/P_logo.png)
